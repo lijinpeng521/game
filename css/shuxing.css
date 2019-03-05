@@ -1,0 +1,475 @@
+body{
+
+	background: url(http://static.9377s.com/images/tg/sgjh/index3/bg.jpg);
+}
+
+
+
+
+
+
+
+
+
+
+
+/*     这是头部标签*/
+.header{
+	height: 73px;
+}
+.header .headerone{
+	width: 1000px;
+	height: 68px;
+	margin: 0 auto;
+	background: url(../img/2.jpg) no-repeat 642px center;		
+}
+.header .headerone  .headertwo {
+	float: left;
+	width: 126px;
+	height: 68px;
+	background: url(../img/1.jpg) no-repeat center left;
+
+	}
+.header .headerone .headerthree{	
+	height: 78px;
+	margin-left: 462px;
+}
+
+.header .headerone .headerthree a{
+	float: left;
+	margin-right: 36px;
+	text-align: center;
+	margin-top:20px;
+}
+.header .headerone .headerthree a p{
+	color: #666666;
+	font-size: 12px;
+}
+	
+	
+	
+
+	
+
+
+
+
+
+
+
+/*这是身体的上半身的标签*/
+
+.main{
+	height: 542px;
+	
+}
+
+.mainhead{
+	width: 1000px;
+	height: 543px;
+	margin: 0 auto;
+	
+}
+.mainhead .main_one{
+	margin: 0 auto;
+	
+	
+	
+	width: 1000px;
+	height: 410px;
+}
+.mainhead .main_one .main_two{
+	width: 1000px;
+	height: 410px;
+	
+	
+	
+}
+.mainhead .main_one .main_two .hot{
+	width: 258px;
+	height: 410px;
+	
+	float: left;
+
+
+}
+.mainhead .main_one .main_two .hot .title{
+	width: 258px;
+	height: 58px;
+}
+.mainhead .main_one .main_two .hot .title h2{
+	font-size: 21px;
+	line-height: 57px;
+	font-weight: 700;
+	
+}
+
+.mainhead .main_one .main_two .hot .title h2 span{
+	color: #03b4f5;
+}
+.mainhead .main_one .main_two .hot .hot_main ul li{
+	margin: 0 auto;
+	width: 230px;
+	margin: 0 12px 0 14px;
+
+}
+.mainhead .main_one .main_two .hot .hot_main span em{
+	color: #fff;
+	display: block;
+	height: 14px;
+	width: 14px;
+	background: #d63636;
+	top: 11px;
+	left: 16px;
+	line-height: 14px;
+	margin: 0 auto;
+	margin-top: 10px;
+
+	
+}
+.mainhead .main_one .main_two .hot .hot_main ul li span img{
+	position: relative;
+	top: 4px;
+}
+.mainhead .main_one .main_two .hot .hot_main ul li span a{
+	line-height: 18px;
+	display: block;
+	width: 34px;
+	height: 18px;
+	background: #03b4f5;
+	margin: 0 auto;
+	margin-top: 10px;
+
+
+
+}
+.mainhead .main_one .main_two .hot .hot_main ul li .r em{
+	color: #fff;
+	line-height: 14px;
+	display: block;
+	background: #3b9900;
+	margin: 0 auto;
+	margin-top: 10px;
+
+}
+.mainhead .main_one .main_two .hot .hot_main ul li .t em{
+	color: #fff;
+	line-height: 14px;
+	display: block;
+	background: #03b4f5;
+	margin: 0 auto;
+	margin-top: 10px;
+
+}
+
+.mainhead .main_one .main_two .hot .hot_main ul li span .y{
+	color: #fff;
+	line-height: 14px;
+	display: block;
+	background: #b9b9b9;
+	margin: 0 auto;
+	margin-top: 10px;
+
+}
+.mainhead .main_one .main_two .hot .hot_main ul li span a{
+	color: #fff;
+}
+.mainhead .main_one .main_two .hot .hot_main ul li span{
+	width: 25%;
+	display: block;
+	float: left;
+	
+	height: 34px;
+	line-height: 34px;
+	border-bottom: 1px dashed	#d2d2d2;
+
+}
+.mainhead .main_one .main_two .hot .hot_main{
+	text-align: center;
+	width: 258px;
+	height: 354px;
+	border: 1px solid #d1d1d1;
+	background: #ffffff;
+}
+.mainhead .main_one .main_two .hot .hot_main .w{
+	color: #d43434;
+	height: 40px;
+	line-height: 40px;
+}
+.mainhead .main_one .main_two .game{
+	width: 717px;
+	height: 410px;
+	
+	margin-left: 283px;
+	
+}.mainhead .main_one  .game .title span{
+	color: #4ec2ea;
+
+}
+.mainhead .main_one  .game .title{
+	font-size: 22px;
+	width: 717px;
+	height: 57px;
+	line-height: 57px;
+	
+}
+.mainhead .main_one  .game .game_main{
+	width: 717px;
+	height: 354px;
+}
+.mainhead .main_one  .game .game_main li{
+	border: 0.5px solid #dfdee3;
+	height: 355px;
+	background: #fff;
+	display: block;
+	float: left;
+	overflow: hidden;
+}
+.mainhead .main_one  .game .game_main li .ss{
+	text-align: center;
+	width: 106px;
+	height: 26px;
+	background:	url(./5.jpg);
+	margin-left: 36px;
+	margin-top: 13px;
+	
+}
+.mainhead .main_one  .game .game_main  h3{
+	color: #333333;
+	line-height: 31px;
+	text-align: center;
+	margin-top: 5px;
+	font-size: 18px;
+}
+.mainhead .main_one  .game .game_main  p{
+	color: #999999;
+	font-size: 12px;
+	line-height: 15px;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*    这是下半部分的标签*/
+.main_2{
+	margin: 0 auto;
+	width: 1000px;
+	height: 773px;
+	
+	
+}
+ .main_2 .news{
+ 	float: left;
+	height: 373px;
+	width: 260px;
+	
+}
+.main_2 .news .title{
+	padding-top: 20px;
+	font-size: 22px;
+	line-height: 45px;
+	width: 260px;
+
+	
+}
+.main_2 .news .title .op{
+	color: #03b4f5;
+}
+
+
+.main_2 .news .news{
+	width: 260px;
+
+	height: 300px;
+}
+.main_2 .news .news_main .main2121 a{
+	
+	margin-left: 21px;
+	width: 60px;
+	height: 20px;
+	line-height: 20px;
+	background: #03b4f5;
+	color: #ffffff;
+	position: absolute;
+	right: 10px;
+	bottom: 10px;
+
+	
+}
+.main_2 .news .news_main .main2121 p{
+	font-size: 12px;
+	margin-top: 8px;
+	margin-left: 66px;
+	line-height: 23px;
+}
+.main_2 .news .news_main .main2121 span{
+	text-align: center;
+	font-size: 12px;
+	display: block;
+	color: #666666;
+	margin-left: -96px;
+	width: 260px;
+	height: 20px;
+	
+}
+.main_2 .news .news_main .main2121 .hh{
+	border-bottom: 1px solid #d1d1d1;
+}
+
+.main_2 .news .news_main .main2121 li{
+	position: relative;
+	float: left;
+	display: block;
+	width: 260px;
+	height: 59px;
+	overflow: hidden;
+	border: 1px solid #d1d1d1;
+	border-bottom: none;
+
+}
+.main_2 .news .news_main .main2121 .oo{
+	margin: 10px;
+	float: left;
+	
+}
+ .main_2 .groom{
+ 	margin-left: 280px;
+ 	
+ 	width: 721px;
+ 	height: 682px;
+ 	
+ }
+  .main_2 .groom .groom_title{
+  	padding-top: 20px;
+  	font-size: 22px;
+  	line-height: 45px;
+  	width: 720px;
+  	
+   
+   }
+   .main_2 .groom .groom_main{
+   	width: 720px;
+   	height: 614px;
+   
+   }
+  .main_2 .groom .groom_title span{
+  	color: #03b4f5;
+  }
+  .main_2 .groom .groom_main li{
+  		float: left;
+  		border: 0.5px	solid	#d1d1d1;
+  		width: 358px;
+   		height: 206px;
+  }
+  .main_2 .groom .groom_main .main231 img{
+  	margin-left: 16px;
+  	margin-top: 15px;
+  }
+  .main_2 .groom .groom_main .main231{
+  	width: 172px;
+  	height:	205px;
+  	float: left;
+  }
+  .main_2 .groom .groom_main .main232{
+  	width: 186px;
+  	height: 205px;
+  	
+  	float: left;
+  
+  }
+  .main_2 .groom .groom_main .main232 span{
+  	color: #666695；
+  	font-size: 12px;
+  	display: block;	
+  	height: 20px;
+  	line-height: 20px;
+  	
+  }
+
+  .main_2 .groom .groom_main .main232  .nm{
+  		margin-bottom: 9px;
+  		margin-top: 10px;
+   	   font-size: 20px;
+   	   color: #88b4f5;
+   	   height: 36px;
+   	   line-height: 36px;
+   	   border-bottom: 1px dashed	#b2b2b2;
+   	   
+   }
+   .main_2 .groom .groom_main .main232 .main2321{
+   	width: 154px;	
+   	height: 119px;
+   	margin: 0 15px 0 20px;
+   }
+    .main_2 .groom .groom_main .main232 .main2321 .nn{
+    	display: block;
+    	height: 26px;
+    	width:	 96px;	
+    	background: #03b4f5;	
+    	
+    	text-align: center;
+    }
+    .main_2 .groom .groom_main .main232 .main2321 .nn a{
+    	display: block;
+    	margin-top: 10px;
+    	color: #ffffff;
+    }
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /*  这是底部标签*/
+.footer{
+	height: 110px;
+	
+	background: #f0f0f0;
+	
+}
+.footer .f1 img{
+	width: 124px;	
+	height: 62px;
+	float: left;
+	margin: 25px 14px 0 100px;
+}
+.footer span{
+	font-size: 12px;
+	height: 24px;
+	line-height: 24px;	
+}
+.footer .f1{
+	margin: 25px 14px 0 100px;
+	width: 1000px;
+	height: 110px;
+	
+}
+.footer .f1 .ui{
+	display: block;
+	padding-top: 29px;
+}
